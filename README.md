@@ -6,3 +6,5 @@ Some notes and contents from the Cisco NetAcad Cybersecurity Essentials course.
 [The second chapter](./2.CybersecurityCube.md.md) is based on the cybersecurity cube. The chapter explores all the three dimension of the cube, which are: security principles (known as well as CIA triad), information states, and countermeasures. Additionally, the chapter describe briefly The ISO Cybersecurity Model.
 
 [The third chapter](./3.CybersecurityThreatsVulnerabilitiesAttacks.md) focus on the most common cybersecurity attacks, consider how each attack works, what it exploits, and how it affects the victim, understanding threat of malware, malicious code, and types of deception involved with social engineering.
+
+[The forth chapter](./4.TheArtofProtectingSecrets.md) explores two main topic: cryptography and access control. Additionally, this chapter talk a little about authorization and accountability. The chapter include the triple AAA (authentication, authorization, accountability)
