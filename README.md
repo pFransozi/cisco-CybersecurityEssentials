@@ -8,3 +8,5 @@ Some notes and contents from the Cisco NetAcad Cybersecurity Essentials course.
 [The third chapter](./3.CybersecurityThreatsVulnerabilitiesAttacks.md) focus on the most common cybersecurity attacks, consider how each attack works, what it exploits, and how it affects the victim, understanding threat of malware, malicious code, and types of deception involved with social engineering.
 
 [The forth chapter](./4.TheArtofProtectingSecrets.md) explores two main topic: cryptography and access control. Additionally, this chapter talk a little about authorization and accountability. The chapter include the triple AAA (authentication, authorization, accountability)
+
+[The fifth chapter](5.TheArtOfEnsuringIntegrity.md) focus on integrity and how to ensure it. To do that the main topics are: hash, digital signature, digital certificate, data integrity in databases.
