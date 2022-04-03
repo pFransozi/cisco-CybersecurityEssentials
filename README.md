@@ -10,3 +10,5 @@ Some notes and contents from the Cisco NetAcad Cybersecurity Essentials course.
 [The forth chapter](./4.TheArtofProtectingSecrets.md) explores two main topic: cryptography and access control. Additionally, this chapter talk a little about authorization and accountability. The chapter include the triple AAA (authentication, authorization, accountability)
 
 [The fifth chapter](5.TheArtOfEnsuringIntegrity.md) focus on integrity and how to ensure it. To do that the main topics are: hash, digital signature, digital certificate, data integrity in databases.
+
+[The sixth chapter](6.FiveNinesConcept.md) focus on to explain the concept of five nines, which is related to availability of the system and how to meet a high availability. Additionally, how organizations must be prepared to respond to an incident with procedures that they follow after an event occurs. Some topics are: basic concepts, design availability, asset identification, threat identification, risk analysis, single points of failure, redundancy, resilient design.
