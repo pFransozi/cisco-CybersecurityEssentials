@@ -13,4 +13,6 @@ Some notes and contents from the Cisco NetAcad Cybersecurity Essentials course.
 
 [The sixth chapter](6.FiveNinesConcept.md) focus on to explain the concept of five nines, which is related to availability of the system and how to meet a high availability. Additionally, how organizations must be prepared to respond to an incident with procedures that they follow after an event occurs. Some topics are: basic concepts, design availability, asset identification, threat identification, risk analysis, single points of failure, redundancy, resilient design.
 
-[The seventh chapter](7.ProtectingACybersecurityDomain.md) focus on mainly how to protect a cybersecurity domain, which means secure networking, device hardening. 
+[The seventh chapter](7.ProtectingACybersecurityDomain.md) focus on mainly how to protect a cybersecurity domain, which means secure networking, device hardening.
+
+[The eighth chapter](8.BecomingACybersecuritySpecialist.md) focus on how to become a cybersecurity specialist through the domains of information technology infrastructure and their security controls, the laws and cybersecurity requirements
